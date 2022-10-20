@@ -1,0 +1,20 @@
+{
+  "name": "pinia-error-plugin",
+  "version": "1.0.0",
+  "description": "pinia全局处理错误插件 === ```javascript import { createApp } from \"vue\"; import App from \"./App.vue\"; import router from \"./router\"; import { createPinia } from \"pinia\"; import piniaErrorPlugin from \"./pinia-error-plugin\"",
+  "main": "pinia-error-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoyunchong/pinia-error-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaoyunchong/pinia-error-plugin/issues"
+  },
+  "homepage": "https://github.com/zhaoyunchong/pinia-error-plugin#readme"
+}
