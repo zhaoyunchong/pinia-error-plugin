@@ -1,6 +1,6 @@
 {
   "name": "pinia-error-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "pinia全局处理错误插件 === ```javascript import { createApp } from \"vue\"; import App from \"./App.vue\"; import router from \"./router\"; import { createPinia } from \"pinia\"; import piniaErrorPlugin from \"./pinia-error-plugin\"",
   "main": "pinia-error-plugin.js",
   "scripts": {

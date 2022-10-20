@@ -5,7 +5,7 @@ import { createApp } from "vue";
 import App from "./App.vue";
 import router from "./router";
 import { createPinia } from "pinia";
-import piniaErrorPlugin from "./pinia-error-plugin"
+import piniaErrorPlugin from "pinia-error-plugin"
 
 const pinia = createPinia();
 // 使用插件
